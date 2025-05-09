@@ -43,7 +43,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/C-Programming-Language.git
+git clone https://github.com/siammahfuz/C-Programming-Language
 cd C-Programming-Language
 Compile a sample program:
 
